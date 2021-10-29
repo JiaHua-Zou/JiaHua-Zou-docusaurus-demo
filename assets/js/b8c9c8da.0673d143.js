@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjia_website=self.webpackChunkjia_website||[]).push([[236],{470:function(a){a.exports=JSON.parse('{"allTagsPath":"/JiaHua-Zou-docusaurus-demo/blog/tags","slug":"/JiaHua-Zou-docusaurus-demo/blog/tags/facebook","name":"facebook","count":1,"permalink":"/JiaHua-Zou-docusaurus-demo/blog/tags/facebook"}')}}]);
